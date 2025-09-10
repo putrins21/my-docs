@@ -1,5 +1,10 @@
 site_name: My Docs
 nav: 
-- Home: index.md
-- About: about.md
-- Tutorial: tutorial.md
+  - Home: index.md
+  - About: about.md
+  - Tutorial: tutorial.md
+
+theme: 
+  name: mkdocs
+  
+
