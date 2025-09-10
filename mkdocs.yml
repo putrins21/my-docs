@@ -5,6 +5,6 @@ nav:
   - Tutorial: tutorial.md
 
 theme: 
-  name: mkdocs
+  name: ivory
   
 
