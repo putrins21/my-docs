@@ -1,6 +1,19 @@
 
 :root {
-  --md-primary-fg-color: #F97794;   /* warna header */
-  --md-default-bg-color: #f5f5f5;   /* warna background utama */
+  /* Warna utama (header, link aktif, tombol, dsb) */
+  --md-primary-fg-color: #ff5733;
+  --md-primary-fg-color--light: #ff8f66;
+  --md-primary-fg-color--dark: #c70039;
+
+  /* Warna background utama */
+  --md-default-bg-color: #f4f4f4;
+}
+
+.md-header {
+  background-color: #ff5733 !important;
+}
+
+body {
+  background-color: #f4f4f4 !important;
 }
 
