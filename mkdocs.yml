@@ -5,6 +5,12 @@ nav:
   - Tutorial: tutorial.md
 
 theme: 
-  name: ivory
+  name: material
+  
+extra_css: 
+  - css/extra.css
+  
+
+
   
 
