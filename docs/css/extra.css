@@ -1,18 +1,6 @@
-#CSS
 
-/* Ubah Warna Background Keseluruhan */
-.md-main {
-  background-color: #E6E6FA !important; /* lavender */
-}
-
-/* Ubah Warna Header */
-.md-header {
-  background-color: #6A5ACD !important; /* slate blue */
-}
-
-/* Kalau Mau Teks Header Ikut Kontras */
-.md-header .md-header__title,
-.md-header .md-header__topic {
-  color: white !important;
+:root {
+  --md-primary-fg-color: #F97794;   /* warna header */
+  --md-default-bg-color: #f5f5f5;   /* warna background utama */
 }
 
